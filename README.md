@@ -11,7 +11,7 @@ It's a restaurant which famous for **Biryani**. People from all over the world c
     3. From there take a right and go straight for 0.5 miles.
     4. After that take a left and just beside McD you can find Bahar restaurant.
 * Food Items
-* Chicken Biryani
-* Fish fry
-* Prawns Biryani
-* Chicken 65 
+    * Chicken Biryani
+    * Fish fry
+    * Prawns Biryani
+    * Chicken 65 
