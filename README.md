@@ -17,3 +17,17 @@ It's a restaurant which famous for **Biryani**. People from all over the world c
     * Chicken 65 
 
 <https://github.com/yashaswi1996/Assignment2-Nagamalla/blob/main/Aboutme.md>
+
+***
+# Table
+This table represents the sports which used to play regularly.
+
+|   Sport  |   Place  | Price |
+| -------- |  ------  | ----- |
+|  Hockey  |  Outdoor | $500  |
+| -------- |  ------- | ----- |
+|  Cricket |  Outdoor | $1000 |
+| -------- |  ------  | ----- |
+|  Carrom  |  Indoor  | $200  |
+| -------- |  ------- | ----- |
+|   Ludo   |  Online  | $100  |
