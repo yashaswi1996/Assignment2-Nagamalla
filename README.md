@@ -31,3 +31,9 @@ This table represents the sports which used to play regularly.
 |  Carrom  |  Indoor  | $200  |
 | -------- |  ------- | ----- |
 |   Ludo   |  Online  | $100  |
+
+***
+# Quotes
+> "Integrity is doing the right thing, even when no one is watching" - *C.S. LEWIS*
+>
+> "We are all broken, that's how the light gets in" — *Ernest Hemingway*
