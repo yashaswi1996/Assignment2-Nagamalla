@@ -40,4 +40,22 @@ This table represents the sports which used to play regularly.
 
 ***
 # Code Fencing
+> Fibonacci numbers are special kinds of numbers that form a special sequence. This sequence is one of the famous formulas in mathematics. You can find Fibonacci numbers in plant and animal structures. These numbers are also called nature's universal rule, and nature's secret code. Fibonacci numbers are a sequence of whole numbers arranged as 0, 1, 1, 2, 3, 5, 8, 13, 21, 34,...
+
+<https://www.cuemath.com/algebra/fibonacci-numbers/>
+
+```
+pair<int, int> fib (int n) {
+    if (n == 0)
+        return {0, 1};
+
+    auto p = fib(n >> 1);
+    int c = p.first * (2 * p.second - p.first);
+    int d = p.first * p.first + p.second * p.second;
+    if (n & 1)
+        return {d, c + d};
+    else
+        return {c, d};
+}
+```
 <https://cp-algorithms.com/algebra/fibonacci-numbers.html>
